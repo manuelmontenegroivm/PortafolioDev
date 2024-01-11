@@ -23,6 +23,7 @@ import threejs from "./tech/three.webp";
 import oracle from "./tech/oracle.webp";
 import netlify from "./tech/netlify.webp";
 import next from "./tech/next.webp";
+import mysql from "./tech/Mysql.webp";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -63,6 +64,7 @@ export {
   reactjs,
   tailwind,
   django,
+  mysql,
   bootstrap,
   typescript,
   threejs,

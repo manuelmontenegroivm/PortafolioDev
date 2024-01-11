@@ -29,6 +29,7 @@ import {
     unne,
     accionpanal,
     qr,
+    mysql,
   } from "../assets";
   
   export const navLinks = [
@@ -112,9 +113,10 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
+   
     {
-      name: "Oracle",
-      icon: oracle,
+      name: "Mysql",
+      icon: mysql,
     },
   ];
 
