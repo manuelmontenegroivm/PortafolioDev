@@ -18,7 +18,7 @@ const Contact = () => {
       <a className={Style.socialLink} target="_blank" href="https://www.linkedin.com/in/manuel-isa%C3%ADas-montenegro-verdugo-a2bb762a8/">
         <FaLinkedin />
       </a>
-      <a className={Style.socialLink} target="_blank" href="https://www.instagram.com/select_ivm/">
+      <a className={Style.socialLink} target="_blank" href="https://www.instagram.com/ergo_ivm/">
         <BsInstagram />
       </a>
 

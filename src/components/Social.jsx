@@ -43,7 +43,7 @@ const Social = () => {
                     </a>
                 </li>
                 <li className="col-span-1 transition-opacity">
-                    <a target="_blank" href="https://www.instagram.com/select_ivm/" className="border-grey-custom inline-grid w-full rounded-lg border p-2 no-underline transition-opacity">
+                    <a target="_blank" href="https://www.instagram.com/ergo_ivm/" className="border-grey-custom inline-grid w-full rounded-lg border p-2 no-underline transition-opacity">
                         <div className="flex items-center gap-3">
                             <BsInstagram className='h-8 w-8' />
                             Instagram
